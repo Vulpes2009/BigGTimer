@@ -1,9 +1,8 @@
-# BigGTimer
 import React, { useState, useEffect, useRef } from "react";
 
 const TIME_SETS = {
   "PP1": [
-    { distance: "7 Yards", time: 15 },
+   n{ distance: "7 Yards", time: 15 },
     { distance: "10 Yards", time: 15 },
     { distance: "15 Yards", time: 20 },
     { distance: "25 Yards", time: 35 },
